@@ -2,6 +2,8 @@
 
 Introduction to Ebook #1, The Declaration of Independence
 
+Written by Michael S. Hart for the official re-release
+
 The United States Declaration of Independence was the first E-text
 released by Project Gutenberg, early in 1971. The title was stored
 in an emailed instruction set which required a tape or diskpack be
@@ -26,8 +28,6 @@ on the documents [which names I have left out].
 The resulting document has several misspellings removed from those
 parchment "facsimiles" I used back in 1971, and which I should not
 be able to easily find at this time, including "Brittain."
-
--- Dr. Micael S. Hart
 
 [JT, Apr 2005: "Brittish" is spelled as in the original.]
 
