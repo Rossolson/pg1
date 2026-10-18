@@ -1,5 +1,6 @@
 *** START OF THE PROJECT GUTENBERG EBOOK 1 ***
 
+Introduction to Ebook #1, The Declaration of Independence
 
 The United States Declaration of Independence was the first E-text
 released by Project Gutenberg, early in 1971. The title was stored
@@ -26,35 +27,21 @@ The resulting document has several misspellings removed from those
 parchment “facsimiles” I used back in 1971, and which I should not
 be able to easily find at this time, including “Brittain.”
 
+-- Dr. Micael S. Hart
+
 [JT, Apr 2005: “Brittish” is spelled as in the original.]
 
-[RO, Aug 2025: Dr. Hart’s original fully-justified columns of text
+[RO, Oct 2026: Dr. Hart’s original fully-justified columns of text
 in the plain text version have been restored for the introduction.
-Minor text alterations were made to do so.]
+Minor text alterations were made to do so. A later refurbishing of
+this text file moved all later additions to the web-native version
+of the ebook, #16780. All of the original Project Gutenberg Etexts
+from the 1970’s were produced in ALL CAPS, no lower case. The text
+here has retained the change to mixed-case plain ASCII for ease of
+reading.]
 
 
 ***
-
-Transcribers’ Notes
-
-   NOTE: This file contains the original contents of the
-   very first eBook in the Project Gutenberg collection,
-   the Declaration of Independence. This file previously
-   contained a compilation of etexts from #2 to #9. Also
-   it contained a duplicate of the Declaration - as part
-   of preserving the history of the contents which isn’t
-   necessary any longer. The historical variations of #1
-   are included in the “old” subdirectory accessed under
-   the “More Files” listing in the landing page for this
-   file. No edits or changes have been made to them.
-
-   All of the original Project Gutenberg Etexts from the
-   1970’s were produced in ALL CAPS, no lower case.  The
-   computers we used then didn’t have lower case at all.
-
-***
-
-
 
 
 THE DECLARATION OF INDEPENDENCE OF THE UNITED STATES OF AMERICA
